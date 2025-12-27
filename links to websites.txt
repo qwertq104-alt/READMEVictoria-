@@ -1,0 +1,15 @@
+Полезные ссылки, презы и док с конспектом: 
+https://github.com/CanUFeelMyHeart/testRep
+
+Рекомендую по SQL Доп. материал: 
+
+1. https://stepik.org/course/63054/promo
+2. https://sql-academy.org/ru/trainer
+3. Руководство по стилю написания SQL: 
+    https://www.sqlstyle.guide/ru/
+
+Книги:
+
+- “Изучаем SQL”, книга Бейли Л.
+- Алан Бьюли "Изучаем SQL" (2007)
+- Энтони Молинаро "SQL. Сборник рецептов" (2009)
